@@ -8,7 +8,7 @@
 
 ## What is MelodyCraft AI?
 
-MelodyCraft AI is a unified platform offering **9 specialized AI tools** for music creators, songwriters, and rappers. Whether you want a full produced track from a single prompt, a singable song from your own lyrics, or a stage name for your rap persona, there's a dedicated tool tuned for the job.
+MelodyCraft AI is a unified platform offering **11 specialized AI tools** for music creators, songwriters, and rappers. Whether you want a full produced track from a single prompt, a singable song from your own lyrics, or a stage name for your rap persona, there's a dedicated tool tuned for the job.
 
 Built on top of state-of-the-art models (Suno-quality audio engines + Google Gemini for text generation), the platform is designed to be:
 
@@ -44,6 +44,8 @@ Built on top of state-of-the-art models (Suno-quality audio engines + Google Gem
 | 🥋 **Wu-Tang Name Generator** | Get your Wu-Tang Clan inspired name. Algorithm modeled on the original Wu-Tang Name Generator naming patterns. | [→ Try](https://melodycraftai.com/wu-tang-name-generator?utm_source=github) |
 | 🎤 **Rap Name Generator** | Generate authentic rapper stage names by genre, vibe, and gender. Returns 6 options per generation, each with a short persona description. | [→ Try](https://melodycraftai.com/rap-name-generator?utm_source=github) |
 | 🎶 **Song Name Generator** | Stuck on what to title your track? Generate evocative song titles by mood, genre, or theme. | [→ Try](https://melodycraftai.com/song-name-generator?utm_source=github) |
+| 💿 **Album Name Generator** | Generate album titles by genre + concept, or paste your full track list and let AI extract the unifying theme. 8 names per generation, free, no signup. | [→ Try](https://melodycraftai.com/album-name-generator?utm_source=github) |
+| 🎧 **Playlist Name Generator** | Spotify-style playlist names by vibe + activity — or from your tracks. Conversational, TikTok-era naming for study, workout, chill, aesthetic, and more. | [→ Try](https://melodycraftai.com/playlist-name-generator?utm_source=github) |
 
 ---
 
