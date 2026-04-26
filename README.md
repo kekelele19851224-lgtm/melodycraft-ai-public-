@@ -8,7 +8,7 @@
 
 ## What is MelodyCraft AI?
 
-MelodyCraft AI is a unified platform offering **11 specialized AI tools** for music creators, songwriters, and rappers. Whether you want a full produced track from a single prompt, a singable song from your own lyrics, or a stage name for your rap persona, there's a dedicated tool tuned for the job.
+MelodyCraft AI is a unified platform offering **21 specialized AI tools** for music creators, songwriters, rappers, and band founders. Whether you want a full produced track from a single prompt, a singable song from your own lyrics, a stage name for your rap persona, or a band name tuned for your specific subgenre (metal, K-pop, punk, drill, and more), there's a dedicated tool tuned for the job.
 
 Built on top of state-of-the-art models (Suno-quality audio engines + Google Gemini for text generation), the platform is designed to be:
 
@@ -35,6 +35,8 @@ Built on top of state-of-the-art models (Suno-quality audio engines + Google Gem
 |---|---|---|
 | 🎙️ **AI Rap Generator** | Full rap track generation — beat + flow + lyrics in one pass. Multiple sub-genres (trap, boom-bap, drill, mumble). | [→ Try](https://melodycraftai.com/rap-generator?utm_source=github) |
 | ✍️ **Rap Lyrics Generator** | Generates rap bars by topic and vibe. Tuned for rhyme density and natural flow rather than generic poetry. | [→ Try](https://melodycraftai.com/rap-lyrics-generator?utm_source=github) |
+| 🎤 **Diss Track Lyrics Generator** | Full diss-track lyrics with rhymes, punchlines, and battle-rap structure. 9 styles: freestyle, rap battle, petty, lyrical takedown (Kendrick precision), boasting, comedy, old-school, modern trap, clean. Free, no signup. | [→ Try](https://melodycraftai.com/diss-track-lyrics-generator?utm_source=github) |
+| 🔥 **Drill Lyrics Generator** | Full drill song lyrics with regional slang and authentic flow. 9 regional styles: UK drill (Headie One), NYC / Brooklyn drill (Pop Smoke), Chicago drill (Chief Keef), Detroit, Pop drill, Trap drill, Latin drill. Free, no signup. | [→ Try](https://melodycraftai.com/drill-lyrics-generator?utm_source=github) |
 
 ### Lyrics & Naming Tools
 
@@ -46,6 +48,21 @@ Built on top of state-of-the-art models (Suno-quality audio engines + Google Gem
 | 🎶 **Song Name Generator** | Stuck on what to title your track? Generate evocative song titles by mood, genre, or theme. | [→ Try](https://melodycraftai.com/song-name-generator?utm_source=github) |
 | 💿 **Album Name Generator** | Generate album titles by genre + concept, or paste your full track list and let AI extract the unifying theme. 8 names per generation, free, no signup. | [→ Try](https://melodycraftai.com/album-name-generator?utm_source=github) |
 | 🎧 **Playlist Name Generator** | Spotify-style playlist names by vibe + activity — or from your tracks. Conversational, TikTok-era naming for study, workout, chill, aesthetic, and more. | [→ Try](https://melodycraftai.com/playlist-name-generator?utm_source=github) |
+
+### Band Name Generators
+
+Naming your band is the first creative call before any music drops. We built 8 generators tuned for specific subgenres — each understands the slang, naming conventions, and aesthetic of its scene. All free, no signup, 8 names per generation, plus a *From Influences* mode where you paste bands you sound like and the AI generates names that fit alongside without copying.
+
+| Tool | What it does | Try it |
+|---|---|---|
+| 🎸 **Band Name Generator** | Universal hub covering 13 genres — rock, metal, K-pop, punk, indie, pop, hip-hop, R&B, country, electronic, jazz, folk, emo. Use your keywords, initials, or influences. | [→ Try](https://melodycraftai.com/band-name-generator?utm_source=github) |
+| 🤘 **Metal Band Name Generator** | 9 metal substyles: heavy, death, black, nu, doom, thrash, power, symphonic. Iron/blood/throne imagery, multilingual roots. | [→ Try](https://melodycraftai.com/metal-band-name-generator?utm_source=github) |
+| ⚔️ **Heavy Metal Band Name Generator** | NWOBHM (Iron Maiden / Saxon), classic (Black Sabbath), traditional (Manowar), power, speed, glam/hair, stoner, sludge. Anthemic + theatrical. | [→ Try](https://melodycraftai.com/heavy-metal-band-name-generator?utm_source=github) |
+| 💀 **Death Metal Band Name Generator** | Brutal, melodic (Gothenburg), technical, OSDM (Florida), slam, symphonic, blackened, deathgrind. Anatomical horror + occult themes. | [→ Try](https://melodycraftai.com/death-metal-band-name-generator?utm_source=github) |
+| 🜏 **Black Metal Band Name Generator** | Atmospheric (Wolves in the Throne Room), symphonic, pagan, depressive (DSBM), folk, post-black, raw second-wave (Mayhem/Burzum), war/bestial. Norse/frost/kvlt aesthetic. | [→ Try](https://melodycraftai.com/black-metal-band-name-generator?utm_source=github) |
+| ✨ **Kpop Band Name Generator** | K-pop boy group, girl group, mixed, sub-unit, solo stage names + Korean indie/R&B/rock. With meaning, Y2K retro, aesthetic, hyperpop. | [→ Try](https://melodycraftai.com/kpop-band-name-generator?utm_source=github) |
+| 🎤 **Boy Band Name Generator** | 90s (Backstreet Boys/NSYNC), 2000s, 2010s pop (One Direction), K-pop, J-pop (Arashi/SMAP), R&B, Christian, indie. Era-tuned naming. | [→ Try](https://melodycraftai.com/boy-band-name-generator?utm_source=github) |
+| 📌 **Punk Band Name Generator** | Punk rock, hardcore, pop punk, post punk, skate, anarcho, riot grrrl, folk punk. Sarcastic, DIY, political, one-word, funny. | [→ Try](https://melodycraftai.com/punk-band-name-generator?utm_source=github) |
 
 ---
 
@@ -105,7 +122,7 @@ Yes. Lyrics you input are yours. The AI-generated music built around them follow
 The AI Song Cover tool only works with voice models you have rights to. We don't host clones of celebrity voices, and we comply with takedown requests under the relevant publicity-rights laws.
 
 **Why a separate tool for each thing instead of one big tool?**
-Specialized prompts produce better output. A "rap lyrics generator" tuned only for rap bars beats a generic lyrics generator with a "make it rap" toggle. We'd rather ship 9 sharp tools than 1 mediocre one.
+Specialized prompts produce better output. A "rap lyrics generator" tuned only for rap bars beats a generic lyrics generator with a "make it rap" toggle. A "metal band name generator" tuned for the metal scene's specific slang and conventions beats a universal name generator that produces "Iron Cloud" mashups. We'd rather ship 21 sharp, scene-tuned tools than 1 mediocre catch-all.
 
 ---
 
